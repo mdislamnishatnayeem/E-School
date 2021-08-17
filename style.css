@@ -1,0 +1,162 @@
+
+.TOPBAR{
+
+width:100%;
+height:auto;
+left: 0px;
+top: 0px;
+
+background: #F0FFF0;  
+}
+.bg-light {
+    --bs-bg-opacity:none;
+    
+}
+.LOGO{
+    height:53px;
+}
+.navbar-collapse{
+    flex-grow:0;
+    
+}
+.nav-link{
+    font-weight:600;
+   
+}
+.nav-item{
+    padding-right: 30px;
+    font-size: 18px;
+
+}
+.btn-success{
+    border-radius: 30px;
+    padding:8px 24px ;
+    background-color:#21B573;
+    border:none
+}
+.padding-want{
+    padding-top: 15px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+.topbar-padding-on-div{
+  margin-bottom:0px;
+}
+.topbar-histry{
+    padding-right:40%;
+    padding-left: 0px;
+}
+
+.row>* {
+    padding-right:0px;
+
+}
+
+.CARDS{
+    margin-right: 15px;
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 15px;
+
+}
+.CARDS-IMAGES-TOP{
+   
+    max-width: 30%;
+    max-height: 60%;
+    height: auto;
+    display: table;
+    margin: 0 auto;
+    padding-top: 10%;
+    
+}
+.Title{
+    text-align: center;
+    font-size:26px;
+    color: #413960;
+}
+.L-Title{
+    text-align: center;
+    font-size:18px;
+    color:#585859;
+}
+
+
+.MORE-CARDS{
+    margin-right: 50px;
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 15px;
+
+}
+.MORE-CARDS-IMAGES-TOP{
+    
+    max-width: 93%;
+    max-height: 60%;
+    height: auto;
+    display: table;
+    margin: 0 auto;
+    padding-top: 10%;
+    
+}
+
+.SIGN{
+    width: 25px;
+    height: 25px;
+    margin: 0px;
+}
+.card-footer{
+    padding:3px;
+    margin: 0px;
+    height: auto;
+    
+}
+.L-Title-l{
+    font-size: 16px;
+    padding-top:2%;
+}
+.mypic{
+    height: 100px;
+    width: 100px;
+    
+}
+.my-dialogue{
+    padding-right: 30px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.Testimonial{
+    margin-bottom:60px;
+}
+
+
+.NAVIGATION-BAR{
+    height:auto;
+    background-color: #282531;
+    margin-bottom: 0px;
+    
+    
+}
+
+.ABOUT-US{
+    color:white;
+    padding-top: 55px;
+   
+    text-align:left;
+}
+.pp{
+    padding-right: 56px;
+}
+#copyright{
+    text-align: center;
+    color: white;
+    font-size: small;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.LAST-NAVIGATION-BAR{
+    margin-bottom: 0px;
+    overflow: hidden;
+    
+}
