@@ -1,15 +1,17 @@
 
-
-}
 .TOPBAR{
 
 width:100%;
 height:auto;
 left: 0px;
 top: 0px;
-
+padding-bottom: 10px;
 background: #F0FFF0;  
+margin-bottom: 100px;
+
+
 }
+
 .bg-light {
     --bs-bg-opacity:none;
     
