@@ -110,6 +110,8 @@ background: #F0FFF0;
     padding:3px;
     margin: 0px;
     height: auto;
+    border: none;
+    background-color: white;
     
 }
 .L-Title-l{
